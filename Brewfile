@@ -8,17 +8,25 @@ cask appcleaner
 cask asepsis
 cask atom
 cask cheatsheet
+cask filezilla
 cask flux
 cask haroopad
+cask iterm2
+cask karabiner
 cask keepassx
+cask macvim-kaoriya
+cask mamp
 cask openoffice
 cask sitesucker
+cask the-unarchiver
 cask vagrant
 cask virtualbox
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask google-chrome
+cask google-japanese-ime
 cask google-chrome-canary
 cask java7
 cask skitch1
